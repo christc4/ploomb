@@ -1,5 +1,7 @@
 # ploomb <sub>(plumbing in Linux)</sub>
 
+this is a POSIX script for 'plumbing' text as search queries to websites
+
 ## What is plumbing?
 
 Plumbing is a mechanism for passing messages between applications. It has a customizable set of rules (see `plumb(6)`) to process incoming messages and dispatch them to target applications.
